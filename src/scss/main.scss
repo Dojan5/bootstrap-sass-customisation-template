@@ -1,2 +1,6 @@
-@import './overrides';
-@import 'bootstrap/scss/bootstrap';
+//Importing of Bootstrap overrides
+@import "./overrides";
+//Import bootstrap itself
+@import "bootstrap/scss/bootstrap";
+
+//The rest of your custom SASS can go below this comment
